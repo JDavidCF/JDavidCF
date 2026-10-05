@@ -8,6 +8,7 @@
 </div> <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 [![GitHub](https://img.shields.io/github/followers/JDavidCF?style=for-the-badge\&logo=github\&label=Seguidores)](https://github.com/JDavidCF)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 </div>
 
