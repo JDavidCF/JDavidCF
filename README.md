@@ -99,7 +99,7 @@ Por ahora estoy empezando, así que este perfil probablemente cambie bastante co
 
 <div align="center">
 
-### 🎵 THE GREATEST - Billie Eilish
+### 🎵 Mice on Venus - C418
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
