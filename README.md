@@ -80,7 +80,7 @@ Me gusta realizar actividades como:
 
 * 🎮 **Videojuegos**, especialmente juegos de acción como *Call of Duty* y *Gears of War*, aunque también disfruto de *Minecraft* y otros juegos.
 * 🔱 **Hacer ejercicio**, es una de las cosas que más me gusta hacer en mi tiempo libre.
-* 🎧 **Escuchar música** me encanta mientras hago cualquier cosa.
+* 🎧 **Escuchar música** me encanta mientras hago cualquier cosa y preferiblemente la musica indie
 * 🌌 **Astronomía y el espacio** siempre me ha llamado la atención todo lo relacionado con el universo.
 * 🖥️ **Tecnología y computadores**, desde software hasta hardware.
 * 🧠 Y simplemente **aprender cosas nuevas** cuando encuentro algo que me llama la atención.
