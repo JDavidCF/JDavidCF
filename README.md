@@ -20,7 +20,7 @@ Soy un estudiante de **Programación de Software** al que le gusta aprender crea
 
 Actualmente estoy aprendiendo y experimentando con diferentes tecnologías, especialmente con el **desarrollo backend**, las APIs y las bases de datos.
 
-No soy un desarrollador profesional todavía, simplemente estoy construyendo mi camino poco a poco 🚀
+No soy un desarrollador profesional todavía, simplemente estoy construyendo mi camino poco a poco 
 
 * 🐍 Aprendiendo **Python**
 * ⚡ Trabajando con **FastAPI**
@@ -93,13 +93,13 @@ Seguir aprendiendo programación, mejorar mi lógica y crear proyectos cada vez 
 
 Por ahora estoy empezando, así que este perfil probablemente cambie bastante con el tiempo.
 
-**Este es un comienzo. 🚀**
-
 ---
 
 <div align="center">
 
 ### 🎵 Mice on Venus - C418
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hsZzF2bDdibjlzazNmYjNwaGdjOGpseDVleHg5aGhwYjBpOW45cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bug2wkdhpf7kbFS/giphy.gif" width="500">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
