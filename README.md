@@ -101,8 +101,6 @@ Por ahora estoy empezando, así que este perfil probablemente cambie bastante co
 
 ### 🎵 Mice on Venus - C418
 
-<img src="https://i.gifer.com/F8Lf.mp4" width="400">
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
