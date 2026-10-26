@@ -62,7 +62,7 @@ He estado practicando:
 * Organización de proyectos
 * Git y GitHub
 
-🔗 [Ver proyectos en GitHub](https://github.com/JDavidCF)
+🔗 [Ver proyectos en GitHub](https://github.com/JDavidCF/Proyecto-Final.git)
 
 ---
 
